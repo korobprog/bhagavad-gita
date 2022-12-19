@@ -1,4 +1,4 @@
-#Bhagavad-gītā As It Is
+# Bhagavad-gītā As It Is
 
 ![](https://vedabase.io/media/images/en-bg_34MulJK.2e16d0ba.fill-160x254.jpg)
 
