@@ -1,6 +1,6 @@
 #Bhagavad-gītā As It Is#
 
-![alt-текст] (https://vedabase.io/media/images/en-bg_34MulJK.2e16d0ba.fill-160x254.jpg "Bhagavad-gītā As It Is" "Bhagavad-gītā As It Is")
+![](https://vedabase.io/media/images/en-bg_34MulJK.2e16d0ba.fill-160x254.jpg)
 
 Although widely published and read by itself, Bhagavad-gītā originally appears as an episode in the Mahābhārata, the epic Sanskrit history of the ancient world. The Mahābhārata tells of events leading up to the present Age of Kali. It was at the beginning of this age, some fifty centuries ago, that Lord Kṛṣṇa spoke Bhagavad-gītā to His friend and devotee Arjuna.
 
